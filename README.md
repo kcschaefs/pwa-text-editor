@@ -1,6 +1,6 @@
 # JATE Text Editor PWA
 
-[Link to deployed site] (https://justanothertexteditor-jate-pwa.herokuapp.com/)
+[Link to Deployed Site](https://justanothertexteditor-jate-pwa.herokuapp.com/)
 
 ## User Story
 AS A developer
