@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# JATE Text Editor PWA
 
 
 
